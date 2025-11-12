@@ -21,6 +21,7 @@ Integração com API de autenticação JWT
 
 Frontend: Dashboard com login de administrador e funcionários, usando MUI e gráficos (Recharts ou Chart.js)
 
+
 🏫 2️⃣ API de Sistema Escolar
 
 Descrição:
@@ -43,6 +44,7 @@ Extras:
 Relacionamentos complexos com Prisma (muitos-para-muitos entre alunos e matérias)
 
 Autenticação por tipo de usuário (aluno / professor / admin)
+
 
 🛍️ 3️⃣ API de E-commerce Simples
 
@@ -67,6 +69,7 @@ Endpoint /checkout simulando pagamento
 
 Relatórios de vendas
 
+
 🏡 4️⃣ API de Imobiliária
 
 Descrição:
@@ -90,6 +93,7 @@ Autenticação JWT para corretores
 
 Dashboard com estatísticas de vendas
 
+
 🚗 5️⃣ API de Locadora de Veículos
 
 Descrição:
@@ -111,6 +115,7 @@ Extras:
 
 Notificação de vencimento de locação
 
+
 🏨 6️⃣ API de Hotel / Reservas
 
 Descrição:
@@ -131,6 +136,7 @@ Extras:
 Endpoint /disponibilidade?dataInicio=...&dataFim=...
 
 Cálculo de valor da estadia
+
 
 💊 7️⃣ API de Farmácia
 
@@ -155,6 +161,7 @@ Histórico de compra por cliente
 
 Geração de relatórios mensais
 
+
 📚 8️⃣ API de Biblioteca
 
 Descrição:
@@ -176,6 +183,7 @@ Endpoint /emprestimos/atrasados
 
 Histórico de leitura de cada usuário
 
+
 🧾 9️⃣ API Financeira / Controle de Despesas
 
 Descrição:
@@ -196,6 +204,7 @@ Extras:
 Endpoint /resumo?mes=11&ano=2025
 
 Autenticação e usuários múltiplos
+
 
 🧠 🔟 API de Cursos Online
 
@@ -231,4 +240,3 @@ Tema	Descrição
 🎟️ Sistema de Eventos	Cadastro de eventos, ingressos e participantes
 ```
 
->>>>>>> d6f0d1ef516bd9e51b4977cd967f5acaaa89aa57
