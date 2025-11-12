@@ -227,7 +227,7 @@ Tema	Descrição
 🛠️ Oficina Mecânica	Controle de veículos, serviços e ordens de serviço
 🐾 Pet Shop	CRUD de pets, donos e agendamentos de banho/tosa
 🍽️ Restaurante	Cardápio, pedidos e reservas de mesas
-🎟️ Sistema de Eventos	Cadastro de eventos, ingressos e participantes🎟️ Sistema de Eventos	Cadastro de eventos, ingressos e participantes
+🎟️ Sistema de Eventos	Cadastro de eventos, ingressos e participantes
 =======
 
 >>>>>>> d6f0d1ef516bd9e51b4977cd967f5acaaa89aa57
