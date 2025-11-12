@@ -328,11 +328,11 @@ No arquivo src/index.css, adicione as importações do Tailwind:
 @import "tailwindcss/utilities";
 ```
 ## 🧩 Instalação do Material UI
-
+```
 Instale o Material UI e suas dependências de estilo:
 
 npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
-
+```
 ## 🚀 Scripts Disponíveis
 Comando	Descrição
 npm run dev	Inicia o projeto em modo de desenvolvimento
@@ -359,4 +359,4 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-**Douglas Meneses**
+
